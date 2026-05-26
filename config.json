@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authsarse",
+        "uuid": 2438208,
+        "checksum": "zyoom"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
